@@ -33,7 +33,7 @@ while op != "quit":
     op = input()
     if op == 0:#need to add:
     print()
-    elif op == 1:#need to substract:
+      elif op == 1:#need to substract:
     print()
     a = int(input("Enter your first input: "))
     b = int(input("Enter your second input: "))
